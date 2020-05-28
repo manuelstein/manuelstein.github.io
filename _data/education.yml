@@ -1,0 +1,24 @@
+# Education Template
+- layout: left
+  name: MSc Distributed Computing Systems Engineering
+  dates: 2016 - 2018
+  qualification: Brunel University
+  #quote: >
+  #  College of Engineering, Design and Physical Sciences
+  description: | # this will include new lines to allow paragraphs
+    Taking an MSc after 10 years of work experience while building a house and 
+    awaiting my second son was a wonderful experience, not only because it was 
+    such a busy time, but because I got taught by 
+    [Prof. Kyberd](https://www.brunel.ac.uk/people/paul-kyberd), 
+    [Prof. Khan](https://www.brunel.ac.uk/people/akram-khan), 
+    [Prof. Li](https://www.brunel.ac.uk/people/maozhenrick-li) and other great personalities.
+    And I got to wear a gown and mortarboard, which is an extraordinary experience for a German.
+- layout: left
+  name: BSc Information Technology 
+  dates: 2002 - 2005
+  qualification: Berufsakademie Baden-Württemberg
+  #quote: >
+  #  Dipl.-Wirtschaftsing. (BA)
+  description: | # this will include new lines to allow paragraphs
+    This cooperative programme and my supervisors at Alcatel SEL AG gave me a 
+    great start into applied research and international collaborations.

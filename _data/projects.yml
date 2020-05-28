@@ -1,0 +1,21 @@
+# Project template
+- layout: top-middle
+  name: Serverless Workflows (2019-ongoing)
+  link: https://www.github.com/cncf/wg-serverless-workflow
+  #github: cncf/wg-serverless-workflow
+  quote: >
+    Create a commonly understood Serverless workflow model language
+  description: | # this will include new lines to allow paragraphs
+    The CNCF working group is seeking standardization of how serverless applications are modeled that 
+    are loosely coupled event-based, demand-scaled to zero, and interact on a global scale.
+- layout: top-middle
+  name: IRMOS (2008-2011)
+  link: https://cordis.europa.eu/project/id/214777
+  quote: >
+    Enable 'real-time' interaction between people and applications over a Service Oriented Infrastructure
+  description: | # this will include new lines to allow paragraphs
+    We've developed the Intelligent Service-Oriented Network Infrastructure for 
+    this project to orchestrate machine and network virtualization, which is 
+    what you'd call a Cloud infrastructure today. It features a declarative 
+    interface (cmp. Kubernetes) and supports performance SLA for real-time 
+    workloads.

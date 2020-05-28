@@ -1,0 +1,10 @@
+# Experience template
+- layout: left
+  company: Nokia Bell Labs
+  link: https://www.bell-labs.com
+  job_title: Researcher
+  dates: 2005 - ongoing
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    I worked on the IP Multimedia Subsystem, fixed mobile access network convergence, Cloud infrastructure, network virtualization, Cloud networking, Software-defined networking, Big data analytics, Container orchestration and I'm currently working on the Serverless paradigm.
