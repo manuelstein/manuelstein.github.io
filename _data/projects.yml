@@ -9,13 +9,33 @@
     The CNCF working group is seeking standardization of how serverless applications are modeled that 
     are loosely coupled event-based, demand-scaled to zero, and interact on a global scale.
 - layout: top-middle
+  name: Cloud network virtualization (2011-2015)
+  quote: >
+    SDN for distributed clouds, OpenStack, IETF ALTO, Netconf/Yang, Nuage, TOSCA 
+  description: | # this will include new lines to allow paragraphs
+    Several years of SDN research including controllers, WAN virtualization, 
+    intent-based networking, application-layer transport optimization and lots
+    of making OpenStack more network-aware.
+- layout: top-middle
   name: IRMOS (2008-2011)
   link: https://cordis.europa.eu/project/id/214777
   quote: >
-    Enable 'real-time' interaction between people and applications over a Service Oriented Infrastructure
+    Enable 'real-time' interaction between people and applications over a 
+    Service Oriented Infrastructure
   description: | # this will include new lines to allow paragraphs
     We've developed the Intelligent Service-Oriented Network Infrastructure for 
     this project to orchestrate machine and network virtualization, which is 
-    what you'd call a Cloud infrastructure today. It features a declarative 
-    interface (cmp. Kubernetes) and supports performance SLA for real-time 
-    workloads.
+    what you'd call a Cloud infrastructure today. It features distributed 
+    transactions to deploy and maintain application declarations (cmp. 
+    Kubernetes declarative resources) and supports performance SLA for 
+    real-time workloads.
+- layout: top-middle
+  name: IMS (2005-2008)
+  link: https://www.3gpp.org/technologies/keywords-acronyms/109-ims
+  quote: >
+    Building a distributed IMS with border nodes
+  description: | # this will include new lines to allow paragraphs
+    We unified session border controller and border gateways on common 
+    off-the-shelf hardware to run a distributed IMS on a scalable set of 
+    IP multimedia exchanges up to deploying OSA applications at the domain 
+    edge of the provider network.
